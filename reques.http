@@ -1,0 +1,6 @@
+POST http://localhost:3000/api/v1/storage/imagekit/qr-codes
+Content-Type: application/json
+
+{
+    "qr_data": "http://ungu.in/Kalender_HAID"
+}
